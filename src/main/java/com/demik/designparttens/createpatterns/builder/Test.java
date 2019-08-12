@@ -3,7 +3,7 @@ package com.demik.designparttens.createpatterns.builder;
 import com.demik.designparttens.createpatterns.builder.meal.MealBuilder;
 
 /**
- * Function:
+ * Function:建造者模式，把对象一个个组合起来形成一个新的对象
  *
  * @author liubing
  * Date: 2019/8/6 11:56 AM
@@ -12,8 +12,6 @@ import com.demik.designparttens.createpatterns.builder.meal.MealBuilder;
 public class Test {
     public static void main(String args[]){
 
-        System.out.println(200>>>2);
-        System.out.println(200>>2);
         MealBuilder mealBuilder = new MealBuilder();
         System.out.println("Breakfast:");
         mealBuilder.getBreakfast().getItemsName();

@@ -1,7 +1,7 @@
 package com.demik.designparttens.createpatterns.singleton;
 
 /**
- * Function:
+ * Function:单例模式dcl
  *
  * @author liubing
  * Date: 2019/8/6 11:15 AM

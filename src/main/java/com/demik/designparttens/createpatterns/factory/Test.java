@@ -1,7 +1,7 @@
 package com.demik.designparttens.createpatterns.factory;
 
 /**
- * Function:
+ * Function:简单的工厂模式
  *
  * @author liubing
  * Date: 2019/8/5 2:58 PM

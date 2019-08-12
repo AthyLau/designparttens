@@ -3,7 +3,7 @@ package com.demik.designparttens.createpatterns.abstractfactory;
 import com.demik.designparttens.createpatterns.abstractfactory.factory.AbstractTotalFactory;
 
 /**
- * Function:
+ * Function:抽象工厂模式。
  *
  * @author liubing
  * Date: 2019/8/5 7:38 PM
